@@ -1,0 +1,16 @@
+export const defaultUserValue = {
+  name: "",
+  type: "",
+  avatar_url: "",
+  location: "",
+  bio: "",
+  blog: "",
+  twitter_username: "",
+  login: "",
+  html_url: "",
+  followers: 0,
+  following: 0,
+  public_repos: 0,
+  public_gists: 0,
+  hireable: "",
+}
