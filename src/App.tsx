@@ -27,8 +27,8 @@ function App(): JSX.Element {
           <Route path="/users/:login" element={<User />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-        <Footer />
       </main>
+      <Footer />
     </div>
   )
 }
